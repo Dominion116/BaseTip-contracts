@@ -2,7 +2,7 @@
 src = "src"
 out = "out"
 libs = ["lib"]
-solc_version = "0.8.19"
+solc_version = "0.8.20"
 
 # Base Sepolia Testnet Configuration
 [rpc_endpoints]
