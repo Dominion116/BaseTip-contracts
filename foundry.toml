@@ -6,7 +6,7 @@ solc_version = "0.8.20"
 
 # Base Sepolia Testnet Configuration
 [rpc_endpoints]
-base_sepolia = "https://sepolia.base.org"
+base_sepolia = "https://base-sepolia.drpc.org"
 
 [etherscan]
 base_sepolia = { key = "${BASESCAN_API_KEY}", url = "https://api-sepolia.basescan.org/api" }
